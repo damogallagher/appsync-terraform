@@ -50,7 +50,7 @@ query {
 
 ```
 query {
-  getAllItems() {
+  getAllItems {
     id
     created_at
   }
